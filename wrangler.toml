@@ -24,7 +24,7 @@ service = "eliminate-blog-opensource"
 [[d1_databases]]
 binding = "DB"
 database_name = "qiaomu-blog-db"
-database_id = "1554062e-66a9-4604-be29-86e7c822c6bb"
+database_id = "086c1445-16a7-4750-bbaf-3ff91ce3a31b"
 
 [[r2_buckets]]
 binding = "IMAGES"
